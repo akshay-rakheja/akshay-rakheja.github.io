@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay-rakheja
 - 👀 I’m interested in Machine Learning, Decentralized Applications and Data Dcience
-- 🌱 I’m currently learning Data structures and Algorithms
-- 💞️ I’m looking to collaborate on Decentralized applications and tools around it
+- 🌱 I’m currently learning Data structures and Algorithms, Tensorflow and Solidity
+- 💞️ I’m looking to collaborate on Decentralized applications and analytical tools around it
 - 📫 You can reach me at rakheja.akshay@gmail.com
 
 <!---
