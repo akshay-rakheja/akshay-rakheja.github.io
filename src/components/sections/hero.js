@@ -65,17 +65,17 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building human-centered decentralized applications for Web3.
+        digital experiences. Currently, I’m learning Solidity, Javascript and building human-centered decentralized applications for Web3.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://github.com/akshay-rakheja"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my Github!
     </a>
   );
 

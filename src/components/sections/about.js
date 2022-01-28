@@ -136,10 +136,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Akshay and I enjoy analyzing data and building decentralized applications. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Akshay and I enjoy analyzing data and building Decentralized Applications. My
+              interest in Machine Learning started while working at Waymo in 2019 while debugging custom PCB's. The sheer amount of 
+              data that a AV generated and processed in real time blew my mind. Apart from drawing inferences from a dataset, I also enjoy exploring the 
+              Web3 stack.  
             </p>
 
             <p>
