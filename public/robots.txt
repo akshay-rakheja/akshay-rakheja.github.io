@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://akshayrakheja.com/sitemap.xml
+Host: https://akshayrakheja.com
