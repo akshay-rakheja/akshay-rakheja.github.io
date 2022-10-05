@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://akshayrakheja.com/sitemap.xml
-Host: https://akshayrakheja.com
+Sitemap: https://akshay-rakheja.github.io/sitemap/sitemap-index.xml
+Host: https://akshay-rakheja.github.io
